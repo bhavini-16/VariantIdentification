@@ -1,0 +1,1 @@
+"INSERT INTO variants (variant_info, variant_hash) VALUES (%s, MD5(%s))"
